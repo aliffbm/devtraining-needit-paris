@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="Log" section_id="9e30940e2f8d6010b425d5ccf699b661" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+    <sys_ui_section caption="Log" section_id="252925f50fa03200cd674f8ce1050e27" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
             <position>0</position>
@@ -35,8 +35,8 @@
             <sys_created_on>2020-12-14 02:42:18</sys_created_on>
             <sys_id>a630940e2f8d6010b425d5ccf699b687</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">9e30940e2f8d6010b425d5ccf699b661</sys_ui_section>
+            <sys_ui_formatter display_value="">b832d3560a0001c700d781efe21e22f5</sys_ui_formatter>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">252925f50fa03200cd674f8ce1050e27</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-12-14 02:42:18</sys_updated_on>
             <sys_user/>
@@ -49,7 +49,7 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-12-14 02:42:16</sys_created_on>
+            <sys_created_on>2017-01-26 20:42:50</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>9e30940e2f8d6010b425d5ccf699b661</sys_id>
