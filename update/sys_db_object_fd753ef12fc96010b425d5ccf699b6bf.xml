@@ -14,7 +14,7 @@
         <label>NeedIt</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_58872_needit_needit</name>
-        <number_ref display_value="NI">1e427f010fe83200cd674f8ce1050e8b</number_ref>
+        <number_ref display_value="NI">643636352fc96010b425d5ccf699b6b6</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
@@ -32,9 +32,9 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_db_object_fd753ef12fc96010b425d5ccf699b6bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-01-24 22:46:35</sys_updated_on>
+        <sys_updated_on>2020-12-13 20:08:57</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</user_role>
+        <user_role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">c83636352fc96010b425d5ccf699b61d</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>
