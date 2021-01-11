@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="97d975bd0fa03200cd674f8ce1050e82" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
+    <sys_ui_section caption="" section_id="6ea2508e2f8d6010b425d5ccf699b603" sys_domain="global" table="x_58872_needit_needit" version="3" view="User">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
